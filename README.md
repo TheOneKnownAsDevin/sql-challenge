@@ -126,3 +126,6 @@ FROM employees
 GROUP BY last_name
 ORDER BY num_employees_with_same_last_name DESC;
 
+
+---------------------------
+# NOTE: *Source files were provided in Data Bootcamp Class by UTSA, worked on this assignment with my spouse who is a student in the same class*
